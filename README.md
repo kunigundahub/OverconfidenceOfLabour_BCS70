@@ -19,3 +19,6 @@ rawdata
 results
 
 Please start by reading the file do\0_RES_BCS70_how_to_run.do.
+
+Additional files :
+ONS/LFS unemployment data (LFS_unemp.dta)
